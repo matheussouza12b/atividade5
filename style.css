@@ -1,33 +1,14 @@
-body {
-    background-color: aliceblue;
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-h1 {
-    color: darkgreen;
+
+body{
+    background-color: #dc2626;
+
+    color: #fef2f2;
 }
 
-h2 {
-    color: magenta;
-    background-color: pink;
+h1, h2, h3{
+    color: #f1f5f9;
 }
-
-h3 {
-    color: purple;
-}
-
-.texto-vermelho {
-    color: red;
-}
-
-.fundo-amarelo {
-    background-color: yellow;
-}
-
-/* 
-    class =>
-    * a mesma classe pode ser usada para vários elementos
-    
-    id => 
-    * é único
-    * é o seletor mais específico
-*/
