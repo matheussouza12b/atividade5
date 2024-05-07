@@ -1,0 +1,33 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h2 {
+    color: magenta;
+    background-color: pink;
+}
+
+h3 {
+    color: purple;
+}
+
+.texto-vermelho {
+    color: red;
+}
+
+.fundo-amarelo {
+    background-color: yellow;
+}
+
+/* 
+    class =>
+    * a mesma classe pode ser usada para vários elementos
+    
+    id => 
+    * é único
+    * é o seletor mais específico
+*/
